@@ -7,8 +7,8 @@
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
-___🦋(AKASH)🦋___
-(__🐝AKASH🐝__)
+___🦋(🆂🅸🅻🅴🅽🆃 🅱🅾🆈)🦋___
+(__🐝𝘼𝙆𝘼𝙎𝙃🐝__)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 (__🐝AKASH🐝__)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">

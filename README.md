@@ -21,8 +21,6 @@ ___🦋(AKASH)🦋___
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ___🦋(AKASH)🦋___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AKASH-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="AKASH-pmishra" /> </p>
-
-- 👨‍💻 All of my 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴-𝑪𝑨𝑳𝑳-𝑩𝑶𝑿 are available at [https://t.me/ehcehcemran0011223311cyber99/simplified_learner](https://t.me/ehcehcemran0011223311cyber99)
 ___🦋(AKASH)🦋___
 - ⚡ Fun fact **I am funny😅**
 

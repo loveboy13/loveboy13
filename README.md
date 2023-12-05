@@ -2,8 +2,6 @@
 
 [![WELCOME-TO-LOVE-BOY-9-30-2023.gif](https://i.postimg.cc/wxymMgnw/WELCOME-TO-LOVE-BOY-9-30-2023.gif)](https://postimg.cc/3yvffD6W)
 
-src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-
 </h3
 </p>
 ___🦋(🆂🅸🅻🅴🅽🆃 🅱🅾🆈)🦋___

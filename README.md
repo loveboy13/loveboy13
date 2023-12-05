@@ -4,8 +4,6 @@
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3
-[![dark-smiler.png](https://i.postimg.cc/T1vNhqCh/dark-smiler.png)](https://postimg.cc/WFSwHrRP)
-DARK SMILE
 
 [![20231205-084404.png](https://i.postimg.cc/5t7c0BS5/20231205-084404.png)](https://postimg.cc/3yvffD6W)
 

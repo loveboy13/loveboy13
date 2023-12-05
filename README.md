@@ -5,7 +5,7 @@
 
 </h3
 [![dark-smiler.png](https://i.postimg.cc/T1vNhqCh/dark-smiler.png)](https://postimg.cc/WFSwHrRP)
-𝔻𝔸ℝ𝕂 𝕊𝕄𝕀𝕃𝔼
+DARK SMILE
 
 [![20231205-084404.png](https://i.postimg.cc/5t7c0BS5/20231205-084404.png)](https://postimg.cc/3yvffD6W)
 

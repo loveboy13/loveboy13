@@ -11,9 +11,7 @@ ___🦋(🆂🅸🅻🅴🅽🆃 🅱🅾🆈)🦋___
 
     (__🐝𝘼𝙆𝘼𝙎𝙃🐝__)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-(__🐝AKASH🐝__)
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-(__✏️AKASH✏️__)
+
 <h1 align="center">Hi 👋, I'm AKASH</h1>
 <h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝙆𝙄𝙉𝙂 𝘼𝙆𝘼𝙎𝙃 </h3>
 ___🦋(AKASH)🦋___

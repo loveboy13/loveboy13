@@ -1,7 +1,5 @@
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN ⚡BANGLADESHI-PROGRAMMER⚡-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
-[![WELCOME-TO-LOVE-BOY-9-30-2023.gif](https://postimg.cc/3yvffD6W/WELCOME-TO-LOVE-BOY-9-30-2023.gif)](https://postimg.cc/3yvffD6W)
-
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
@@ -27,7 +25,7 @@ ___🦋(🆂🅸🅻🅴🅽🆃 🅱🅾🆈)🦋___
 
 </p>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/mdjonayedalhabibbd13/Line-image-/blob/main/line-1.svg">
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
 

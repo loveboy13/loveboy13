@@ -1,6 +1,5 @@
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN ⚡BANGLADESHI-PROGRAMMER⚡-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
-[![WELCOME-TO-LOVE-BOY-9-30-2023.gif](https://i.postimg.cc/wxymMgnw/WELCOME-TO-LOVE-BOY-9-30-2023.gif)](https://postimg.cc/t7bTmQq6)
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">

@@ -12,13 +12,6 @@ ___🦋(🆂🅸🅻🅴🅽🆃 🅱🅾🆈)🦋___
     (__🐝𝘼𝙆𝘼𝙎𝙃🐝__)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<h1 align="center">Hi 👋, I'm AKASH</h1>
-<h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝙆𝙄𝙉𝙂 𝘼𝙆𝘼𝙎𝙃 </h3>
-___🦋(AKASH)🦋___
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-___🦋(AKASH)🦋___
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AKASH-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="AKASH-pmishra" /> </p>
-___🦋(AKASH)🦋___
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>

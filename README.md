@@ -1,5 +1,6 @@
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN ⚡BANGLADESHI-PROGRAMMER⚡-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
+[![WELCOME-TO-LOVE-BOY-9-30-2023.gif](https://i.postimg.cc/wxymMgnw/WELCOME-TO-LOVE-BOY-9-30-2023.gif)](https://postimg.cc/3yvffD6W)
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -75,7 +76,7 @@ ___🦋(🆂🅸🅻🅴🅽🆃 🅱🅾🆈)🦋___
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=AKASH&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="AKASH's GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=loveboy13&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="AKASH's GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>

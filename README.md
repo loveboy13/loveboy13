@@ -8,7 +8,8 @@
 
 </h3>
 ___🦋(🆂🅸🅻🅴🅽🆃 🅱🅾🆈)🦋___
-(__🐝𝘼𝙆𝘼𝙎𝙃🐝__)
+
+    (__🐝𝘼𝙆𝘼𝙎𝙃🐝__)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 (__🐝AKASH🐝__)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
